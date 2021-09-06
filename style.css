@@ -1,0 +1,17 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: mediumturquoise;
+}
+canvas {
+  display: block;
+}
+input[type=text]{
+  width:100px;
+  border-radius:10px;
+}
+h3{
+  background-color:lightgreen;
+  padding: 2px;
+}
+
